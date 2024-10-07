@@ -8,27 +8,27 @@ Bem vindo a resolução do teste da Volus.
 
 --- 
 #### Arquivos e Repositórios
-1 - HTML, CSS e Bootstrap
+- 1 - HTML, CSS e Bootstrap
     - Projeto: Social Card
     - Github: https://github.com/dezoliveira/social-card
     - Deploy: https://social-card-nine.vercel.app/
 
-2 - Javascript
+- 2 - Javascript
     - Projeto: Todo Leaf
     - Github: https://github.com/dezoliveira/todo-leaf
     - Deploy: https://todo-leaf.vercel.app/
 
-3 - Backend - Python
+- 3 - Backend - Python
     - Projeto CSV Reader
     - Github: https://github.com/dezoliveira/csv-reader
 
-4 - Banco de Dados - Oracle
+- 4 - Banco de Dados - Oracle
     - Github: https://github.com/dezoliveira/oracle-sql
 
-5 - Desenvolvimento Web - CRUD
+- 5 - Desenvolvimento Web - CRUD
     - PDF: Exemplos_CRUD.pdf
 
-6 - Diferenciais (Bônus) - React e .NET
+- 6 - Diferenciais (Bônus) - React e .NET
     - Github: https://github.com/dezoliveira/react-example
     - Deploy: https://react-example-livid.vercel.app/
     - PDF: Diferenciais (Bônus) - React e .NET.PDF 
